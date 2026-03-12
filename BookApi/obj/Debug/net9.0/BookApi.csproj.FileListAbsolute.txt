@@ -34,12 +34,6 @@ C:\Users\nadun\Desktop\BookApi\obj\Debug\net9.0\BookApi.genruntimeconfig.cache
 C:\Users\nadun\Desktop\BookApi\obj\Debug\net9.0\ref\BookApi.dll
 C:\Users\nadun\Desktop\BookmanagementAssignment\BookApi\bin\Debug\net9.0\appsettings.Development.json
 C:\Users\nadun\Desktop\BookmanagementAssignment\BookApi\bin\Debug\net9.0\appsettings.json
-C:\Users\nadun\Desktop\BookmanagementAssignment\BookApi\bin\Debug\net9.0\book-frontend\angular.json
-C:\Users\nadun\Desktop\BookmanagementAssignment\BookApi\bin\Debug\net9.0\book-frontend\package-lock.json
-C:\Users\nadun\Desktop\BookmanagementAssignment\BookApi\bin\Debug\net9.0\book-frontend\package.json
-C:\Users\nadun\Desktop\BookmanagementAssignment\BookApi\bin\Debug\net9.0\book-frontend\tsconfig.app.json
-C:\Users\nadun\Desktop\BookmanagementAssignment\BookApi\bin\Debug\net9.0\book-frontend\tsconfig.json
-C:\Users\nadun\Desktop\BookmanagementAssignment\BookApi\bin\Debug\net9.0\book-frontend\tsconfig.spec.json
 C:\Users\nadun\Desktop\BookmanagementAssignment\BookApi\bin\Debug\net9.0\BookApi.staticwebassets.endpoints.json
 C:\Users\nadun\Desktop\BookmanagementAssignment\BookApi\bin\Debug\net9.0\BookApi.exe
 C:\Users\nadun\Desktop\BookmanagementAssignment\BookApi\bin\Debug\net9.0\BookApi.deps.json
@@ -66,3 +60,4 @@ C:\Users\nadun\Desktop\BookmanagementAssignment\BookApi\obj\Debug\net9.0\refint\
 C:\Users\nadun\Desktop\BookmanagementAssignment\BookApi\obj\Debug\net9.0\BookApi.pdb
 C:\Users\nadun\Desktop\BookmanagementAssignment\BookApi\obj\Debug\net9.0\BookApi.genruntimeconfig.cache
 C:\Users\nadun\Desktop\BookmanagementAssignment\BookApi\obj\Debug\net9.0\ref\BookApi.dll
+C:\Users\nadun\Desktop\BookmanagementAssignment\BookApi\obj\Debug\net9.0\BookApi.sourcelink.json
