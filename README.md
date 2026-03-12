@@ -30,3 +30,10 @@ ng serve
 
 Then open your browser and go to:
 http://localhost:4200
+
+## 📹 Demo Video
+
+You can watch the demo video here:
+
+https://drive.google.com/drive/folders/118oUMGSulElwTrDBXAkyb3sOR-fTcL4V?usp=sharing
+
